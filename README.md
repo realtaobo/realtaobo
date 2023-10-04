@@ -1,5 +1,5 @@
 <!--
-**wavty/wavty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**realtaobo/realtaobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 -->
 
 - 👋 Hi, I'm actively looking for a Rust job 🦀.
-- 🔭 I’m currently working on Java.
 - 🌱 I’m currently learning Rust.
+- 🔭 I used to work with Go/Java frequently in the past.
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mtaobo@gmail.com)](mailto:mtaobo@gmail.com)
